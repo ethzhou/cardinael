@@ -1,0 +1,41 @@
+### macOS ###
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# The following entry is "Icon\r".
+Icon
+
+
+._*
+
+*.icloud
+
+### Swift ###
+
+xcuserdata/
+
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+.build/
+Packages/
+.swiftpm/
+.preview/
+
+xcuserdata/
+
+*.xctimeline/
+*.xcworkspace/*
+!*.xcworkspace/contents.xcworkspacedata
+!*.xcworkspace/xcshareddata/xcschemes/
+
+**/xcshareddata/WorkspaceSettings.xcsettings
+
+*.provisionprofile
+
+.env
+.env.*
